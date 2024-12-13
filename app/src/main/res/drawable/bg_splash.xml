@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="#FFFFFF"/> <!-- Ubah warna sesuai keinginan -->
+    </item>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ai" /> <!-- Logo yang berada di tengah -->
+    </item>
+</layer-list>
